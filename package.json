@@ -1,0 +1,22 @@
+{
+  "name": "teknik-gnav",
+  "version": "1.0.0",
+  "description": "navigation is plus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kgrajan12/teknik-gnav.git"
+  },
+  "keywords": [
+    "teknik-gnav"
+  ],
+  "author": "Gajarajan <kgrajan.12@gmail.com> (https://www.youtube.com/channel/UCzPLHvhbz2ADl8tYocICX6g)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kgrajan12/teknik-gnav/issues"
+  },
+  "homepage": "https://github.com/kgrajan12/teknik-gnav#readme"
+}
