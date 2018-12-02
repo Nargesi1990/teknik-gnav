@@ -7,8 +7,11 @@
     "test": "jest"
   },
   "dependencies": {
+    "lodash": "^4.17.11",
     "react": "16.6.1",
-    "react-native": "0.57.7"
+    "react-native": "0.57.7",
+    "react-native-contacts": "^2.2.4",
+    "react-native-unified-contacts": "^1.6.2"
   },
   "devDependencies": {
     "babel-jest": "23.6.0",
